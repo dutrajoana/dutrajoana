@@ -1,8 +1,8 @@
-- 👋 Olá, eu sou a Joana, mas pode me chamar de jo!!
+👋 Olá, eu sou a Joana, mas pode me chamar de jo!!
 
 **Sobre mim**
 
-  Sou uma estudante do ensino médio e atualmente estou participando de um projeto chamado empowerHer, onde adquiro constantemente conhecimento sobre programação e prentendo adicionar meus futuros projetos aqui no github.
+  Sou uma estudante do ensino médio, tenho 16 anos e atualmente estou participando de um projeto chamado empowerHer, onde adquiro constantemente conhecimento sobre programação e prentendo adicionar meus futuros projetos aqui no github.
 
 
 
